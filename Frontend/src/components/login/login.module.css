@@ -1,0 +1,41 @@
+.grid{
+  background-color:#676F9D;
+  height:100vh;
+  box-shadow:7px 3px 2px;
+  align-content: center;
+}
+.col{
+  background-color:#676F9D;
+  height:100vh;
+  display:flex;
+  align-content:center;
+  justify-content:center;
+  padding:150px;
+  offset:6px;
+}
+.tabs{
+  background-color:#f7f7f7;
+  width:350px;
+  margin:auto;
+  padding:20px;border-radius:20px;
+  height:60vh;
+}
+.tabslist{
+  color: black;
+  text-align:center;
+  padding-inline:10px;
+}
+.tab{
+width: 9rem;
+}
+.panel{
+  padding:10px;
+  margin-top:25px;
+  color: black;
+}
+.social{
+  display: flex;
+  align-content: center;
+  justify-content: center;
+
+}
